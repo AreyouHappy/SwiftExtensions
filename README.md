@@ -6,8 +6,8 @@ This is Swift Extensions
 
 UIView.swft
 ## Extensions
-- [UIView](####UIView)
-- [UIImageView](####UIImageView)
+- [UIView](#uiview)
+- [UIImageView](#uiimageview)
 
 #### UIView
 - [UIView](UIView.swift) - get UIViewController
